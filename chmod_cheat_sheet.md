@@ -46,3 +46,5 @@ Tip rápido:
 | 5      | r-x    | Leer, ejecutar           |
 | 4      | r--    | Solo leer                |
 | 0      | ---    | Sin permisos             |
+
+<!-- Actualizado el 10 de abril de 2025 -->
